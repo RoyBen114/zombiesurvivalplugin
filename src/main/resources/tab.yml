@@ -1,0 +1,2 @@
+header: "§a欢迎来到僵尸生存服\n§e当前波数: {wave}"
+footer: "§b插件作者: Roy\n§7在线人数: {online}/{max}"

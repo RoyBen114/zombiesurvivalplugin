@@ -1,0 +1,21 @@
+name: ZombieSurvival
+version: 1.0
+main: com.zombie.ZombieSurvivalPlugin
+api-version: 1.20
+description: A Minecraft plugin to create a zombie survival game mode.
+author: Roy
+commands:
+  setspawn:
+    description: Set the spawn point
+  start:
+    description: Start the game
+  shop:
+    description: Open the shop
+  end:
+    description: End the game
+  zslocations:
+    description: List all locations
+  achievements:
+    description: List all achievements
+  attachments:
+    description: List all attachments

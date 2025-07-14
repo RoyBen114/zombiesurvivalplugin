@@ -1,0 +1,13 @@
+title: "§6■ §l僵尸生存 §6■"
+lines:
+  - "§c血量: §f{health}❤"
+  - "§6硬币: §f{coins}"
+  - "§4波数: §f{wave}"
+  - "§c击杀: §f{kills}"
+  - "§d事件: §f{event}"
+  - "§c重置倒计时: §f{reset}s"
+  - "§b弹药: §f{ammo}"
+  - "/shop打开商店购买页面"
+  - "手持枪械/attachments打开配件管理"
+  - "/achievements查看获得的成就"
+  - "§6play.scrapiron.online"
